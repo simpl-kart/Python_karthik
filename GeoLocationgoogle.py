@@ -1,6 +1,6 @@
 import googlemaps
 
-gmaps = googlemaps.Client(key='AIzaSyAU-yMFUYh6zBeUht6VmaxPkLujTler5UE')
+gmaps = googlemaps.Client(key='********************')
 
 # Geocoding an address
 geocode_result = gmaps.geocode('Thuckalay')
